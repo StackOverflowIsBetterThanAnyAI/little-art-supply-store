@@ -6,6 +6,7 @@
 - 1x page has no language
 - 1x font is absolute garbage
 - 16x element has no visible focus indicator
+- 1x site is not responsive
 
 ## Header
 
