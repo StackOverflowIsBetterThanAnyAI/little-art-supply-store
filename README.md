@@ -21,6 +21,7 @@
 - 1x images change too quick without being able to stop the animation
 - 3x insufficient color contrast
 - 3x image has no alt attribute
+- 1x insufficient line height
 
 ## Products
 
@@ -42,6 +43,7 @@
 - 1x link relies on color
 - 1x anchor is missing a href value
 - 1x insufficient color contrast
+- 1x font size is too small
 
 ## Footer
 
