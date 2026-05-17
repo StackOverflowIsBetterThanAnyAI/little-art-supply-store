@@ -3,7 +3,7 @@
 ## General
 
 - 1x no title
-- 1x page has wrong language
+- 1x page has no language
 - 1x font is absolute garbage
 - 16x element has no visible focus indicator
 
@@ -38,9 +38,11 @@
 - 3x input has no label
 - 3x information is only available by color
 - 1x link has bad accessible name
+- 1x link relies on color
 - 1x anchor is missing a href value
 - 1x insufficient color contrast
 
 ## Footer
 
 - 1x link has bad accessible name
+- 1x link relies on color
